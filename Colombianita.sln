@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{A5BCC9AE-766B-4901-8F47-19605E7F663A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colombianita", "Colombianita\Colombianita.csproj", "{9AB66734-EF8D-49C3-A8AA-D6651179CACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BCC9AE-766B-4901-8F47-19605E7F663A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BCC9AE-766B-4901-8F47-19605E7F663A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BCC9AE-766B-4901-8F47-19605E7F663A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BCC9AE-766B-4901-8F47-19605E7F663A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB66734-EF8D-49C3-A8AA-D6651179CACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB66734-EF8D-49C3-A8AA-D6651179CACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB66734-EF8D-49C3-A8AA-D6651179CACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB66734-EF8D-49C3-A8AA-D6651179CACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D13A518-6425-48FA-9CAD-2D0A56C4BA57}
+	EndGlobalSection
+EndGlobal
